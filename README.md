@@ -1,24 +1,31 @@
-# This is a large heading
-## This is a smaller heading
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poetâ€TMs pen, Turns them to shapes and gives to airy nothing, A local *habitation* and a **name**.
-- This is
-- an unordered 
-- list
-1. This is
-2. an ordered 
-3. list
+# Santiago Todisco.
+### Estudiante de Ingenieria en Sistemas de Informacion.
 
-Here is `some code` in the middle of a sentence. 
+## Habilidades y conocimientos:
+1. Networking y servidores.
+	- AD, DHCP, DNS, GPO.
+	- WS 2008, 2012, 2016, 2019.
+	- Switches Dell, Cisco, Enterasys.
+2. Hacking Etico:
+	- Nmap project.
+	- Burpsuite.
+	- Wireshark.
+	- Kali Linux.
+3. Sistemas Operativos:
+	- Windows.
+	- Linux.
+	- MacOS.
+4. Microsoft Office 365 Admin.
+5. Lenguajes de programacion:
+	- C++.
+	- Python.
 
-```
-This is
-a block
-Git and GitHub 192
-of code
-```
+## Estudios realizados.
+1. Ingenieria en sistemas de informacion (en curso).
+2. Practical Ethical Hacking - 2020.
+3. Bachiller Cs. Naturales.
 
-Here is how you make [a link](https://www.mercadolibre.com.ar/).
-
-![This is an image.](https://presenterse.com/wp-content/uploads/2020/03/ml.jpg)
-
+## Contacto:
+- Telefono : +xx x xxxxxxxxxx.
+- Email : [santi.todisco@gmail.com](mailto:santi.todisco@gmail.com)
+- LinkedIn: [linkedin.com/in/santitodisco](https://www.linkedin.com/in/santitodisco)

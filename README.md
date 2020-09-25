@@ -18,7 +18,7 @@ Git and GitHub 192
 of code
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Here is how you make [a link](https://www.mercadolibre.com.ar/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is an image.](https://presenterse.com/wp-content/uploads/2020/03/ml.jpg)
 
